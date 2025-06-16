@@ -30,7 +30,7 @@ Uma aplicação de calculadora de desktop funcional, desenvolvida com Python e a
 
 1.  **Clone o repositório:**
     ```bash
-    git clone (https://github.com/MatheusRuasVieira/calculadora_tkinter_python.git)
+    git clone https://github.com/MatheusRuasVieira/calculadora_tkinter_python.git
     ```
 
 2.  **Navegue até a pasta do projeto:**
