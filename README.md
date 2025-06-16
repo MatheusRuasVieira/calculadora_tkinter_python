@@ -43,3 +43,9 @@ Uma aplicação de calculadora de desktop funcional, desenvolvida com Python e a
     python main.py
     ```
 A janela da calculadora será aberta.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
