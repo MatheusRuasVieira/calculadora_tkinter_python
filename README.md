@@ -9,12 +9,12 @@ Uma aplicação de calculadora de desktop funcional, desenvolvida com Python e a
 
 ## ✨ Funcionalidades
 
-* Interface gráfica intuitiva com um visor digital e botões clicáveis.
-* Suporte para as quatro operações aritméticas básicas: Adição (+), Subtração (-), Multiplicação (*) e Divisão (/).
-* Botão de igual (=) para calcular e exibir o resultado final da expressão.
-* Botão 'C' para limpar o visor e a memória da calculadora.
-* Tratamento de erros para expressões matemáticas inválidas.
-
+* **Operações Básicas:** Suporte completo para adição, subtração, multiplicação e divisão.
+* **Cálculos em Cadeia:** Permite realizar operações sequenciais (como `5 * 2 + 3`) que são resolvidas automaticamente ao inserir o próximo operador, imitando o comportamento de uma calculadora padrão.
+* **Inversão de Sinal (+/-):** Um botão dedicado para facilmente alternar o sinal do número atual no visor, permitindo o uso de números negativos nos cálculos.
+* **Limpeza Total (C):** Um botão 'C' que reseta completamente o estado e o visor da calculadora.
+* **Interface Intuitiva:** Layout em grade, responsivo e de fácil utilização, construído com Tkinter.
+* **Tratamento de Erros:** Exibe uma mensagem de "Erro" no visor para operações inválidas, como divisão por zero.
 ---
 
 ## 🛠️ Conceitos e Tecnologias Aplicadas
@@ -25,6 +25,8 @@ Uma aplicação de calculadora de desktop funcional, desenvolvida com Python e a
 * **Programação Orientada a Eventos:** Utilização de `callbacks` (a opção `command`) para executar funções em resposta a cliques de botão.
 
 ---
+### Captura de Tela da Aplicação
+![Screenshot da Calculadora](./screenshot.png)
 
 ## 🚀 Como Executar
 
